@@ -1,0 +1,15 @@
+C:\Users\olive\Documents\GitHub\Rail-Fence-solver\Rail-Fence-solver\Rail-Fence-solver\obj\Debug\net6.0\Rail-Fence-solver.csproj.AssemblyReference.cache
+C:\Users\olive\Documents\GitHub\Rail-Fence-solver\Rail-Fence-solver\Rail-Fence-solver\obj\Debug\net6.0\Rail-Fence-solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Documents\GitHub\Rail-Fence-solver\Rail-Fence-solver\Rail-Fence-solver\obj\Debug\net6.0\Rail-Fence-solver.AssemblyInfoInputs.cache
+C:\Users\olive\Documents\GitHub\Rail-Fence-solver\Rail-Fence-solver\Rail-Fence-solver\obj\Debug\net6.0\Rail-Fence-solver.AssemblyInfo.cs
+C:\Users\olive\Documents\GitHub\Rail-Fence-solver\Rail-Fence-solver\Rail-Fence-solver\obj\Debug\net6.0\Rail-Fence-solver.csproj.CoreCompileInputs.cache
+C:\Users\olive\Documents\GitHub\Rail-Fence-solver\Rail-Fence-solver\Rail-Fence-solver\bin\Debug\net6.0\Rail-Fence-solver.exe
+C:\Users\olive\Documents\GitHub\Rail-Fence-solver\Rail-Fence-solver\Rail-Fence-solver\bin\Debug\net6.0\Rail-Fence-solver.deps.json
+C:\Users\olive\Documents\GitHub\Rail-Fence-solver\Rail-Fence-solver\Rail-Fence-solver\bin\Debug\net6.0\Rail-Fence-solver.runtimeconfig.json
+C:\Users\olive\Documents\GitHub\Rail-Fence-solver\Rail-Fence-solver\Rail-Fence-solver\bin\Debug\net6.0\Rail-Fence-solver.dll
+C:\Users\olive\Documents\GitHub\Rail-Fence-solver\Rail-Fence-solver\Rail-Fence-solver\bin\Debug\net6.0\Rail-Fence-solver.pdb
+C:\Users\olive\Documents\GitHub\Rail-Fence-solver\Rail-Fence-solver\Rail-Fence-solver\obj\Debug\net6.0\Rail-Fence-solver.dll
+C:\Users\olive\Documents\GitHub\Rail-Fence-solver\Rail-Fence-solver\Rail-Fence-solver\obj\Debug\net6.0\refint\Rail-Fence-solver.dll
+C:\Users\olive\Documents\GitHub\Rail-Fence-solver\Rail-Fence-solver\Rail-Fence-solver\obj\Debug\net6.0\Rail-Fence-solver.pdb
+C:\Users\olive\Documents\GitHub\Rail-Fence-solver\Rail-Fence-solver\Rail-Fence-solver\obj\Debug\net6.0\Rail-Fence-solver.genruntimeconfig.cache
+C:\Users\olive\Documents\GitHub\Rail-Fence-solver\Rail-Fence-solver\Rail-Fence-solver\obj\Debug\net6.0\ref\Rail-Fence-solver.dll
