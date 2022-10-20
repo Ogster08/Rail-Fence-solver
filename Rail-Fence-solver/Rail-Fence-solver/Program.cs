@@ -1,6 +1,7 @@
 ﻿namespace Rail_Fence_Solver
 {
     using System;
+    using System.Collections.Generic;
     using System.Collections.Concurrent;
     using System.ComponentModel;
 
